@@ -1,6 +1,6 @@
 import * as express from "express";
 import * as bodyParser from "body-parser";
-import {fetchData} from './controller/fetch.controller';
+
 class App {
 
   constructor() {
